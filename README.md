@@ -1,5 +1,5 @@
 # Diving club - Test task
-[DEMO](https://tykhan.github.io/tt-diving-lp/) - published result is here.
+[DEMO](https://tykhan.github.io/dc/) - published result is here.
 
 LP was created using:
 
